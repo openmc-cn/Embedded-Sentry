@@ -1,0 +1,3 @@
+Microcontroller: Arduino Uno
+Accelerometer: MPU6050 (Soldered)
+Jumper Wires: Male-to-Female (Several)
